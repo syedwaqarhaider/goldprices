@@ -1,8 +1,6 @@
 package com.example.goldprices.Model;
 
 import com.sun.istack.NotNull;
-import net.bytebuddy.implementation.bind.annotation.Empty;
-
 import javax.validation.constraints.NotEmpty;
 import javax.validation.constraints.Pattern;
 
